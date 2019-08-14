@@ -1,5 +1,7 @@
 Simple example how to compile a simple dummy macro with two dependent classes in ROOT and C++.
 
+`macro.C` running `classA` and `classB` (dependent on `classA`)
+
 ### ROOT
 Either step by step:
 ```
